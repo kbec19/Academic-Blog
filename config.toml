@@ -1,4 +1,4 @@
-baseURL = "https://www.kristinabecvar.com"
+baseURL = "https://kristinabecvar.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Academic Blog"
