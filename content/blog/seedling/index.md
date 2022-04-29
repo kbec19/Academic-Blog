@@ -1,5 +1,5 @@
 ---
-author: Alison Hill
+author: Kristina Becvar
 categories:
 - Theme features
 date: "2021-01-02"

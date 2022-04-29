@@ -1,33 +1,31 @@
 ---
-author: Eric Anderson
+author: Kristina Becvar
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-02"
+- New York Times
+- Text Analysis
+- Afghanistan
+date: "2022-04-20"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: This project analyzes the differences between main and print headlines published by the NYT regarding and surrounding the U.S. withdrawal from Afghanistan.
 featured: true
 layout: single-sidebar
 links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
+  url: https://kbec19.github.io/NYT-Analysis/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
+  url: https://github.com/kbec19/NYT-Analysis
 - icon: newspaper
   icon_pack: far
   name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
+  url: https://kbec19.github.io/NYT-Analysis/
 subtitle: ""
 tags:
 - hugo-site
-title: Palmer Penguins
+title: New York Times Headline Analysis
 ---
 
 ### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
