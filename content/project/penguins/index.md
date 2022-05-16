@@ -4,11 +4,13 @@ categories:
 - New York Times
 - Text Analysis
 - Afghanistan
+- Research Design
+- Projects
 date: "2022-04-20"
 draft: false
 excerpt: This project analyzes the differences between main and print headlines published by the NYT regarding and surrounding the U.S. withdrawal from Afghanistan.
 featured: true
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas
@@ -28,40 +30,70 @@ tags:
 title: New York Times Headline Analysis
 ---
 
-### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
+### The primary goal of this aspect of research is to refine the process for examining the content of the full articles for which the main vs. print headlines are the most different from each other in the primary project analysis.
 
-*— [Chris House, A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)* [^1]
-
----
-
-Since I began building websites in Y2K, I've lost count how many times the phrase "...there's got to be a better way to do this" has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid `TABLE`.
-
-Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver. You'd be surprised (or maybe you wouldn't) how challenging the standard header, content, sidebar, footer layout could be to actually get right.
-
-{{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
+*— [NYT Headline Analysis Project GitHub Page](https://kbec19.github.io/NYT-Analysis/)* [^1]
 
 ---
 
-### <dfn title="Ermahgerd is a humorous version of the phrase oh my god, written as though pronounced with a heavy influence of extra Rs. It's meant to imitate the sound of someone speaking through a retainer.">ERMAHGERD</dfn>
+# New York Times Headline Sentiment Analysis
 
-A proper grid is what we always wanted, no ... _needed_ to build websites with a solid, unbreakable structure. And that's why I used it in this theme. I call this feature a "scaffold" because none of the _content_ is laid out on this grid. Only the main _structure_: consisting of the `header`, `footer`, `main`, `aside`, and `footer`. As you can tell by this quote from the [W3C](https://www.w3.org/TR/css-grid-1/) on the candidate recommendation itself, Grid is the perfect tool for the job:
+## Previous Research
 
-> ##### CSS Grid Layout Module
+For this project, I am using some data gathered in the DACSS 602 course "Research Design".  In the project for that course, our research group posed the question:
+
+*How did the sentiment of news reporting on the U.S. withdrawal of Afghanistan shift over the period between when it was agreed upon between ex-President Trump and when it was executed by President Biden?*
+
+**Basic Research Design:**  Manual coding of a stratified, representative sample of 300 articles after reaching an appropriate inter-coder reliability rating.
+
+**Data Sample:**  We coded articles that mention Afghanistan from the time of the Doha Agreement (February 29, 2020) through September 30, 2021, following the Congressional testimonies conducted September 28-29, 2021 regarding the withdrawal. The articles were collected from the New York Times and the Wall Street Journal World and News sections.
+
+**Text Coding Method:**  We used NVivo 12 to code news articles covering the U.S. withdrawal from Afghanistan during the period leading up to and following the day the last of the U.S. forces left Afghanistan. 
+
+**Methods/Text Coding Categories:**
+
+* Ground Source: When the reporting is on location 
+* Military Source: When there is a quote from a U.S.  military spokesperson, leader, or commander	
+* Conflict Veteran Source: 	When there is a quote from a U.S. military veteran who served in Afghanistan
+* Framing: When there is a framing of the Taliban as a threat 
+* Sentiment Rating:	How the coder felt while reading the article
+		
+**Outcomes:**  The article source (NYT v. WSJ) served as a moderator, with the outcomes being the analysis of media frames ‘before and after’ (Trump admin v. Biden admin). 
+
+---
+
+## Current Research
+
+I continued down the same path but with new data and a new direction through the DACSS 697D course "Text as Data".
+
+This project examines the difference in headlines between the paper and online versions of the New York Times articles related to the withdrawal of U.S. troops from Afghanistan. The analysis includes articles that mention “Afghanistan” from the time of the Doha Agreement (February 29, 2020) through September 30, 2021, following the Congressional testimonies conducted September 28-29, 2021. 
+
+Analysis of a corpus compiled from data obtained through the New York Times API showed no statistically significant differences in the headlines using three widely used sentiment and emotion lexicons. 
+
+Topic modeling and examining a co-occurrence matrix of each set of headlines showed patterns in which types of words are chosen for the respective audience. 
+
+Specifically, this preliminary analysis showed that print headlines might carry fewer emotionally weighted words than online headlines.
+
+{{< figure src="697D.png" alt="Preliminary Research Presentation" caption="Poster Presentation of Preliminary Research on This Project" >}}
+
+---
+
+### <dfn title="A complete list of citations can be found on the GitHub Page for this project.">Citations</dfn>
+
+A complete list of citations can be found on the GitHub Page for this project.
+
+> ##### Lexicons Utilized
 >
-> This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid.
->
-> — _W3C_
+> * This research makes use of the [NRC Word-Emotion Association Lexicon](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm), created by Saif > > Mohammad and Peter Turney at the National Research Council Canada. 
+> 
+> * This research makes use of the [Bing Lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html). This dataset was first published in Minqing Hu and Bing Liu, ``Mining and summarizing customer reviews.'', Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2004), 2004.
+> 
+> * This research makes use of the [AFINN Lexicon](http://www2.compute.dtu.dk/pubdb/pubs/6010-full.html), Nielsen, F. Å. (2011). A new ANEW: Evaluation of a word list for sentiment analysis in microblogs. arXiv preprint arXiv:1103.2903.
 
-CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:
+---
 
-```css
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, auto);
-}
-```
+## Future Research
 
-#### What an amazing time to be a web developer. Anyway, I hope you enjoy this "feature" that you'll probably never notice or even see. Maybe that's the best part of a good user interface – the hidden stuff that just works.
+#### This project will continue in the coming months utilizing new tools as developed in continuing DACSS courses.
 
-[^1]: The original article cited here is now updated and maintained by the staff over at CSS-Tricks. Bookmark their version if you want to dive in and learn about CSS Grid: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[^1]: The preliminary work on this project was done as part of the UMass Amherst DACSS Course "Research Design"," taught by Professor Meredith Rolfe, and continuied as part of the UMass Amherst DACSS Course "Text as Data", taught by Professor Eunkyung Song: [NYT Headline Analysis Project GitHub Page](https://kbec19.github.io/NYT-Analysis/)
