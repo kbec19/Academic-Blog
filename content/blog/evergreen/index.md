@@ -1,13 +1,16 @@
 ---
-author: Alison Hill
+title: Math in Markdown
+author: Kristina Becvar
+date: '2022-05-16'
 categories:
-- evergreen
-date: "2021-01-20"
-draft: false
+  - Blog Building
+tags:
+  - hugo-site
+  - markdown
+draft: no
 excerpt: Good stuff
 layout: single
-subtitle: Testing
-title: An evergreen post
+subtitle: A Pirated Post
 ---
 
 ## Rendering mathematical equations
