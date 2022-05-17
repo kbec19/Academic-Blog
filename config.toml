@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Eleven Consulting, LLC"
   orgLocal = "Oak Park, IL"
   description = "A place to share ideas and experiences."
-  favicon = "/img/favicon.ico"
-  logo = "/img/home.png"
+  favicon = "/img/favicon.png"
+  logo = "/img/11.png"
   mainSections = ["About", "Blog", "Projects", "DACSS", "Resources"]
   navallcaps = true
   # show/hide social icons in site header & footer
