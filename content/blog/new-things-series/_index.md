@@ -1,12 +1,12 @@
 ---
-author: Alison Hill
+author: Kristina Becvar
 cascade:
-  author: Alison Hill
+  author: Kristina Becvar
   categories:
-  - Theme Features
+  - Blog Building
   - R
   layout: single-series
-  series: A Spoonful of Hugo
+  series: Trying Something New
   show_author_byline: true
   show_post_date: true
   sidebar:
@@ -16,26 +16,23 @@ cascade:
     text_link_url: ""
     text_series_label: In this series
   tags:
-  - hugo-site
 description: |
-  A forking fun new feature for series.
+  Migrating my site to this new Hugo template.
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: false
 sidebar:
-  author: Alison Hill
+  author: Kristina Becvar
   description: |
-    A forking fun new feature for series.
-    Even this sidebar offers a ton of customizations!
+    Migrating my site to this new Hugo template.
 
-    Check out the _index.md file in the /blog/spoonful-series
-    folder to edit this content.
+    Using Netlify, Hugo, and RStudio to run an academic blog.
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Spoonful of Hugo
-title: A Spoonful of Hugo
+  title: Trying Something New
+title: Trying Something New
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
