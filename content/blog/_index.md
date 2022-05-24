@@ -9,7 +9,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "This is primarily my blog of course projects, assignments, homework, and progress reports on active research."
+description: Blog Stuff
 layout: list-sidebar
 show_author_byline: true
 show_button_links: false
@@ -17,11 +17,9 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Kristina Becvar
-  description: "Check this sidebar for categories, tags, and more as it continues to develop over time."
+  description: "This is primarily my blog of course projects, assignments, homework, and progress reports on active research."
   show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  title: A Sidebar for Your Thoughts
+  title: Sidebar
 thumbnail_left: true
 title: Blog Posts
 ---

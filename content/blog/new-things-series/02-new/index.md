@@ -1,15 +1,13 @@
 ---
 date: "2022-05-23"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
-subtitle: ""
+excerpt: "Using the Hugo-Netlify-RStudio Workflow"
+subtitle: "Simply Starting"
 title: Me?? Overthinking?
 weight: 2
 ---
 
-Sometimes the best way to learn is to share what you know with someone else who knows as much or more than you do. This is what happened when I shared my shell of a blog in process with the fabulous [Isha Mahajan](https://github.com/Isha-Mahajan12). Really, starting to use th Hugo/Netlify/RStudio blog process is pretty simple.
+Sometimes the best way to learn is to share what you know with someone else who knows as much or more than you do. This is what happened when I shared my shell of a blog in process with the fabulous [Isha Mahajan](https://github.com/Isha-Mahajan12). Really, starting to use the Hugo/Netlify/RStudio blog process is pretty simple.
 
 1. Fork theme into your Github repository (https://github.com/hugo-apero/hugo-apero-docs for this theme)
 
@@ -20,6 +18,8 @@ Sometimes the best way to learn is to share what you know with someone else who 
 4. Clone your repository and open a new project in RStudio for it (be sure you've installed the blogdown package and Hugo in RStudio: https://github.com/rstudio/blogdown)
 
 5. Read the documentation and resources available, mess around, and build a cool blog. Connect it to your custom domain in Netlify if you'd like!
+
+There is more to it, of course, and the wheel was already invented and documented well by the theme creators, here: https://hugo-apero-docs.netlify.app/start/setup/
 
 ---
 
