@@ -1,15 +1,19 @@
 ---
-author: Kristina Becvar
+title: "New York Times Headline Analysis"
+subtitle: ""
+excerpt: "This project analyzes the differences between main and print headlines published by the NYT regarding and surrounding the U.S. withdrawal from Afghanistan."
+date: 2022-05-01
+author: "Kristina Becvar"
+draft: false
+featured: true
+series:
+tags:
 categories:
 - New York Times
 - Text Analysis
 - Afghanistan
 - Research Design
 - Projects
-date: "2022-04-20"
-draft: false
-excerpt: This project analyzes the differences between main and print headlines published by the NYT regarding and surrounding the U.S. withdrawal from Afghanistan.
-featured: true
 layout: single
 links:
 - icon: door-open
@@ -20,25 +24,15 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/kbec19/NYT-Analysis
-- icon: newspaper
-  icon_pack: far
-  name: Blog post
-  url: https://kbec19.github.io/NYT-Analysis/
-subtitle: ""
-tags:
-- hugo-site
-title: New York Times Headline Analysis
 ---
 
-### The primary goal of this aspect of research is to refine the process for examining the content of the full articles for which the main vs. print headlines are the most different from each other in the primary project analysis.
-
-*— [NYT Headline Analysis Project GitHub Page](https://kbec19.github.io/NYT-Analysis/)* [^1]
+#### The primary goal of this aspect of research is to refine the process for examining the content of the full articles for which the main vs. print headlines are the most different from each other in the primary project analysis. [^1]
 
 ---
 
-# New York Times Headline Sentiment Analysis
+## New York Times Headline Sentiment Analysis
 
-## Previous Research
+### Previous Research
 
 For this project, I am using some data gathered in the DACSS 602 course "Research Design".  In the project for that course, our research group posed the question:
 
@@ -62,7 +56,7 @@ For this project, I am using some data gathered in the DACSS 602 course "Researc
 
 ---
 
-## Current Research
+### Current Research
 
 I continued down the same path but with new data and a new direction through the DACSS 697D course "Text as Data".
 
@@ -92,8 +86,6 @@ A complete list of citations can be found on the GitHub Page for this project.
 
 ---
 
-## Future Research
-
 #### This project will continue in the coming months utilizing new tools as developed in continuing DACSS courses.
 
-[^1]: The preliminary work on this project was done as part of the UMass Amherst DACSS Course "Research Design"," taught by Professor Meredith Rolfe, and continuied as part of the UMass Amherst DACSS Course "Text as Data", taught by Professor Eunkyung Song: [NYT Headline Analysis Project GitHub Page](https://kbec19.github.io/NYT-Analysis/)
+[^1]: The preliminary work on this project was done as part of the UMass Amherst DACSS Course "Research Design"," taught by Professor Meredith Rolfe, and continuied as part of the UMass Amherst DACSS Course "Text as Data", taught by Professor Eunkyung Song.

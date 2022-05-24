@@ -5,6 +5,7 @@ excerpt: "I originally started this network as a practice skeleton to build a co
 date: 2022-04-20
 author: "Kristina Becvar"
 draft: false
+featured: true
 series:
 tags:
 categories:
@@ -24,7 +25,9 @@ links:
   url: https://github.com/kbec19/NYT-Analysis
 ---
 
-#### [Grateful Network](https://github.com/kbec19/Grateful-Network) is the first in a series of repositories built for social network analysis of the Grateful Dead culture and music world.
+#### [Grateful Network](https://github.com/kbec19/Grateful-Network) is the first in a series of repositories built for social network analysis of the Grateful Dead culture and music world. [^1]
+
+![](network.png)
 
 ---
 
@@ -42,6 +45,18 @@ More information to come as this project is developed!
 
 Currently, the GitHub repository contains clean data in various formats as well as scripts for the creation of igraph and statnet network objects.
 
+---
+
+### Current Research
+
+After creating networks using both igraph and statnet, it became clear that it is probable that it is not Jerry Garcia, but Bob Weir, that is the central figure in the Grateful Dead songwriting network. Although the igraph evaluation determined degree centrality higher for Jerry Garcia, even in igraph, Bob Weir had more centrality by every other measure.  In the statnet evaluation, Weir held the mostconsistently strong centrality of any member, including
+Jerry Garcia.
+
+Summary presentation of my initial research:
+
+{{< figure src="poster.png" alt="Preliminary Research Presentation" caption="Poster Presentation of Preliminary Research on This Project" >}}
+
+---
 
 ### Inspiration, Sources, and Citations
 
@@ -56,3 +71,9 @@ Citations:
 *Schofield, Matt; The Grateful Dead Family Discography: http://www.deaddisc.com/*
 
 *This information is intended for private research only, and not for any commercial use. Original Grateful Dead songs are ©copyright Ice Nine Music*
+
+---
+
+#### This project will continue in the coming months utilizing new tools as developed in continuing DACSS courses.
+
+[^1]: The preliminary work on this project was done as part of the UMass Amherst DACSS Course "Social and Network Analysis"," taught by Professor Meredith Rolfe.
