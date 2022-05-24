@@ -1,10 +1,10 @@
 ---
-date: "2019-02-25T13:38:41-06:00"
+date: "2022-05-17"
 description: If it's easier for you, drop me a note using this form!
 draft: false
 formspree_form_id: https://formspree.io/f/xzbokvzl
 layout: split-right
-name: Contact Us Form
+name: Contact Me Form
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message
