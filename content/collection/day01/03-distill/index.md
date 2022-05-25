@@ -1,9 +1,7 @@
 ---
 date: "2022-05-01"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: Most of this info is from RStudio & Dr. Allison Hill
 subtitle: Using the distill & postcards packages to build a personal website with
   R Markdown.
 title: A distill site
@@ -25,7 +23,7 @@ Restart your R session. If you use RStudio, use the menu item *Session \> Restar
 <!-- -->
 ```
     packageVersion("distill")
-    [1] ‘1.2’
+    [1] ‘1.3’
 
 ## Create GitHub repo
 
@@ -33,7 +31,7 @@ Online.
 
 ## Clone GitHub repo
 
-    usethis::create_from_github("https://github.com/apreshill/global-distill.git")
+    usethis::create_from_github("https://github.com/yourname/global-distill.git")
 
 :sparkles: Commit & Push! :sparkles:
 
@@ -57,7 +55,7 @@ Now, let's commit all these new files and push to GitHub.
 
 ## Build site
 
-Please *close* the RStudio IDE and re-open it. Look in your Git pane, you should see a single file has changed:
+Please *close* RStudio and re-open it. Look in your Git pane, you should see a single file has changed:
 
 <center>
 
@@ -102,17 +100,17 @@ create_article(file = "about",         # future name of .Rmd file
 
 Docs: <https://rstudio.github.io/distill/website.html#theming>
 
-    distill::create_theme("apreshill")
+    distill::create_theme("me")
 
 Remember your `_site.yml` file? Add the theme line there:
 
 ``` {.yaml}
-name: "Alison Hill"
-title: "Personal website of Dr. Alison Hill"
+name: "Me"
+title: "Personal website of Me"
 description: |
   This is my personal website.
 output_dir: "docs"
-theme: apreshill.css
+theme: me.css
 navbar:
   right:
     - text: "Home"
@@ -132,10 +130,10 @@ Medium:
 
 ```
 > use_github_pages(branch = "main", path = "/docs")
-✓ Setting active project to '/Users/alison/rscratch/global-distill'
-✓ Activating GitHub Pages for 'apreshill/global-distill'
+✓ Setting active project to '/Users/me/rscratch/global-distill'
+✓ Activating GitHub Pages for 'yourname/global-distill'
 ✓ GitHub Pages is publishing from:
-● URL: 'https://apreshill.github.io/global-distill/'
+● URL: 'https://yourname.github.io/global-distill/'
 ● Branch: 'main'
 ● Path: '/docs'
 ```

@@ -22,7 +22,7 @@ Restart your R session. If you use RStudio, use the menu item *Session > Restart
 
 ```
 packageVersion("postcards")
-[1] ‘0.2.0’
+[1] ‘0.2.3’
 ```
 
 ## Create GitHub repo
@@ -113,22 +113,8 @@ You should be committing this files:
 
 ## Publish a postcard
 
-Easy: 
-
 + Push, publish to GitHub pages
 https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site
-
-Medium:
-
-```
-> use_github_pages(branch = "main", path = "/")
-✓ Setting active project to '/Users/alison/rscratch/global-postcard'
-✓ Activating GitHub Pages for 'apreshill/global-postcard'
-✓ GitHub Pages is publishing from:
-● URL: 'https://apreshill.github.io/global-postcard/'
-● Branch: 'main'
-● Path: '/'
-```
 
 ## Share your postcard!
 
