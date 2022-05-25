@@ -1,16 +1,16 @@
 ---
-author: Alison Hill
-date: "2021-01-26"
+author: Kristina Becvar
+date: "2022-05-01"
 description: |
-  day two
+  Additional Core Courses
 excerpt: null
 layout: single-series
-publishDate: "2021-01-22"
+publishDate: "2022-05-01"
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: All about Day 02 of 'Introduce Yourself Online'.
-title: Day 02
+subtitle: All About DACSS 602, 603, 604
+title: Additional Core Courses
 weight: 3
 ---
 

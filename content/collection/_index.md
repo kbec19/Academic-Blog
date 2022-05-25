@@ -1,27 +1,22 @@
 ---
-author: Alison Hill
+author: Kristina Becvar
 cascade:
-  layout: single-series
+  author: Kristina Becvar
   sidebar:
-    author: Alison Hill
-    description: "Sometimes you want a souped-up series- a bundle of related pages
-      \nmeant to be read in sequence. This section is like a blog series, \nminus
-      the blog.\n"
-    show_author_byline: true
-    show_post_date: true
     show_sidebar_adunit: true
-    text_contents_label: On this page
-    text_link_label: ""
-    text_link_url: ""
-    text_series_label: Outline
-    title: Create a Collection
-description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
-  to be read in sequence. This section is like a blog series, \nminus the blog.\n"
+    text_link_label: View recent posts
+    text_link_url: /collection/
+description: "This is a page of ideas, experiences, and tools I have found useful in the course of my studies in the DACSS program at UMass Amherst and hope others can find useful as well."
 layout: list-sidebar
-show_author_byline: false
-show_post_date: false
+show_author_byline: true
+show_button_links: false
+show_post_date: true
 show_post_thumbnail: true
-subtitle: A collection, minus the blog.
-thumbnail_left: false
-title: Create a Collection
+sidebar:
+  author: Kristina Becvar
+  description: "Resources I have gathered along the way; hopefully they can help someone starting out down the DACSS path!"
+  show_sidebar_adunit: true
+  title: Sidebar
+thumbnail_left: true
+title: DACSS Program
 ---

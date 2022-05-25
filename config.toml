@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A place to share ideas and experiences."
   favicon = "/img/favicon.png"
   logo = "/img/11.png"
-  mainSections = ["About", "Blog", "Projects", "DACSS", "Resources"]
+  mainSections = ["About", "Blog", "Projects", "DACSS", "Resources", "Collections"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -139,7 +139,7 @@ enableEmoji = true
   [[menu.header]]
     name = "DACSS"
     title = "DACSS"
-    url = "/dacss/"
+    url = "/collection/"
     weight = 4
   [[menu.header]]
     name = "Resources"

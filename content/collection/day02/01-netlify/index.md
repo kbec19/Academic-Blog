@@ -1,17 +1,10 @@
 ---
-date: "2021-01-02"
+date: "2022-05-01"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
-subtitle: Using Netlify to deploy.
-title: Netlify
+excerpt: Insights and Options
+subtitle: Research Design
+title: DACSS 602
 weight: 1
 ---
 
-
-So far, we've been leveraging GitHub Pages for publishing. This works great, but for blogdown we'll start using Netlify. Let's start *RIGHT NOW* with a site we've already built and published.
-
-## Pre-requisites
-
-Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?
+DACSS 602 has some different options for course choice.
