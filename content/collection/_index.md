@@ -1,5 +1,5 @@
 ---
-author: Kristina Becvar
+author: 
 cascade:
   author: Kristina Becvar
   sidebar:
@@ -9,7 +9,7 @@ cascade:
 description: "This is a page of ideas, experiences, and tools I have found useful in the course of my studies in the DACSS program at UMass Amherst and hope others can find useful as well."
 layout: list-sidebar
 show_author_byline: true
-show_button_links: false
+show_button_links: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:

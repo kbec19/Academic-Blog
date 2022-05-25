@@ -8,11 +8,11 @@ Repo for Kristina Becvar's academic blog
 A personal website:
 
 ⚒️ created with the [blogdown](https://pkgs.rstudio.com/blogdown/)
-package in [RStudio](https://www.rstudio.com/),
+package in [RStudio](https://www.rstudio.com/) using [Hugo](https://gohugo.io/),
 
 💡inspired by Dr. Allison Hill and her
 [Hugo Apero theme](https://hugo-apero-docs.netlify.app/),
 
-🗨️ with commenting by[utteranc.es](https://utteranc.es//), and
+🗨️ with commenting by [utteranc.es](https://utteranc.es//), and
 
 🚀 deployed through [Netlify](https://www.netlify.com/).
