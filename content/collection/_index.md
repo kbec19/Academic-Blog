@@ -13,10 +13,10 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: Kristina Becvar
+  author: 
   description: "Resources I have gathered along the way; hopefully they can help someone starting out down the DACSS path!"
   show_sidebar_adunit: true
-  title: Sidebar
+  title: Humble Advice
 thumbnail_left: true
 title: DACSS Program
 ---

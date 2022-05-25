@@ -1,11 +1,10 @@
 ---
 author: Kristina Becvar
-date: "2022-05-01"
+date: 2022-05-01
 description: |
   All DACSS students (usually) begin with DACSS 601
 excerpt: null
 layout: single-series
-publishDate: "2023-05-01"
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
