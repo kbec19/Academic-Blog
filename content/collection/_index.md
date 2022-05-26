@@ -16,7 +16,7 @@ sidebar:
   author: 
   description: "Resources I have gathered along the way; hopefully they can help someone starting out down the DACSS path!"
   show_sidebar_adunit: true
-  title: Humble Advice
+  title: A Little Experience and Advice
 thumbnail_left: true
 title: DACSS Program
 ---
