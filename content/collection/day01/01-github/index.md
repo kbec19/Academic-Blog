@@ -7,10 +7,6 @@ title: Pre-Course Prep
 weight: 1
 ---
 
-## Set up GitHub and R/RStudio Before Beginning the Course
-
-+ Sign up for a free GitHub.com account at <https://github.com/join> if you don't already have one. 
-
 ## Understand the Elements of Your New Workflow
 
 + Complete these [installation instructions](https://happygitwithr.com/install-intro.html).
