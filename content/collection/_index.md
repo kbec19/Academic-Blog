@@ -14,9 +14,9 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: 
-  description: "Resources I have gathered along the way; hopefully they can help someone starting out down the DACSS path!"
+  description: "A little advice on starting out down the DACSS path!"
   show_sidebar_adunit: true
-  title: A Little Experience and Advice
+  title: Advice and Experience With Studying Data Analytics for Social Sciences
 thumbnail_left: true
 title: DACSS Program
 ---
