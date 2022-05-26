@@ -3,7 +3,7 @@ title: Math in Markdown
 author: Kristina Becvar
 date: '2022-05-16'
 categories:
-  - Blog Building
+  - R
 tags:
   - hugo-site
   - markdown

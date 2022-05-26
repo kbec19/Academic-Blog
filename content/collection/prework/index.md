@@ -9,7 +9,18 @@ weight: 1
 
 Before you start planning, there is some advice I have to give from the perspective of my experience alone.
 
-# Core Courses
+## Planning Tools & Resources
 
-How to plan core courses
+## Core Courses
+
+## Elective Courses I have taken
+
+### Text as Data
+
+* Book on Text Mining (https://www.tidytextmining.com/)
+
+### Social & Political Network Analysis
+
+### Communications: Social Persuasion
+
 

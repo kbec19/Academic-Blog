@@ -1,5 +1,5 @@
 ---
-author: Kristina Becvar
+author: 
 date: "2022-05-01"
 description: |
   Additional Core Courses

@@ -1,15 +1,17 @@
 ---
 date: "2022-05-01"
 draft: false
-excerpt: GitHub is important to understand from day one. Your GitHub profile is also going to eventually serve as your data 'resume' and it is important to set it up properly and mindfully.
-subtitle: Put your best foot forward, first.
+excerpt: 
+subtitle: Getting Comfy With R
 title: Pre-Course Prep
 weight: 1
 ---
 
-# Set up GitHub and R/RStudio Before Beginning the Course
+## Set up GitHub and R/RStudio Before Beginning the Course
 
-Sign up for a free GitHub.com account at <https://github.com/join> if you don't already have one. Also:
++ Sign up for a free GitHub.com account at <https://github.com/join> if you don't already have one. 
+
+## Understand the Elements of Your New Workflow
 
 + Complete these [installation instructions](https://happygitwithr.com/install-intro.html).
     
@@ -17,17 +19,15 @@ Sign up for a free GitHub.com account at <https://github.com/join> if you don't 
     
 + **NOTE:** Experts *strongly recommend* that if you are not already a fluent GitHub user you choose [HTTPS over SSH](https://happygitwithr.com/credential-caching.html).
 
-## Get Down with Markdown
-
-It's easy to complete this [10-minute interactive tutorial on Markdown](https://commonmark.org/help/tutorial/). 
++ Read through as much as possible on [Happy Git With R](https://happygitwithr.com/index.html) to understand how Git, GitHug, R, and RStudio and how they all work together.
 
 ## Installations
 
 Make sure your computer has the following installed:
 
-+ A recent version of R (>=3.6.0), which is available for free at https://cloud.r-project.org/
++ A recent version of R (>=4.1.0), which is available for free at https://cloud.r-project.org/
     
-+ A recent version of RStudio Desktop (>=1.4), available for free ([RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/#download)). Read up on the latest version [here](https://blog.rstudio.com/2021/01/19/announcing-rstudio-1-4/).
++ A recent version of RStudio Desktop (currently 2.0), available for free ([RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/#download)). Read up on the latest version [here](https://www.rstudio.com/blog/rstudio-workbench-2022-02-0/).
     
 + The R packages you will use from the beginning, which you can install by connecting to the internet, opening RStudio, and running at the command line:
 
@@ -36,16 +36,24 @@ Make sure your computer has the following installed:
                        "postcards", "here", "tidyverse"))
     ```
 
-## Profile
++ A recent version of Git (>=2.35), available for free via this [download page](http://git-scm.com/downloads). Read up on Git [here](http://git-scm.com/book/en/v2)    
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
++ Sign up for a free GitHub.com account at <https://github.com/join> if you don't already have one. 
 
-## Pin projects to profile
+## Get Down with Markdown
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+It's easy to complete this [10-minute interactive tutorial on Markdown](https://commonmark.org/help/tutorial/). 
 
-## Profile README
+## Configure Your GitHub Profile
 
-You can share information about yourself with the community on GitHub by creating a profile README. GitHub shows your profile README at the top of your profile page. 
++ [Personalize your profile](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile)
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
++ [Pin projects to profile](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
+
+## Customize Your Profile README
+
+You can share information about yourself with the community on GitHub by creating a profile README. GitHub shows your profile README at the [top of your profile page.](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
+
+
+
+

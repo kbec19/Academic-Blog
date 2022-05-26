@@ -1,7 +1,7 @@
 ---
 author: 
 cascade:
-  author: Kristina Becvar
+  author: 
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View recent posts

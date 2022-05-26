@@ -3,11 +3,13 @@ date: "2022-05-23"
 draft: false
 excerpt: "Using the Hugo-Netlify-RStudio Workflow"
 subtitle: "Simply Starting"
-title: Me?? Overthinking?
+title: No Need to Over-Think This
 weight: 2
 ---
 
-Sometimes the best way to learn is to share what you know with someone else who knows as much or more than you do. This is what happened when I shared my shell of a blog in process with the fabulous [Isha Mahajan](https://github.com/Isha-Mahajan12). Really, starting to use the Hugo/Netlify/RStudio blog process is pretty simple.
+It can feel like a huge, looming weight to create a new online space and it's easy to procrastinate getting started.
+
+Sometimes the best way to learn is to share what you know with someone else who knows as much or more than you do. This is what happened when I shared my shell of a blog in process with the fabulous [Isha Mahajan](https://imahajan.netlify.app/). Really, starting to use the Hugo/Netlify/RStudio blog process is pretty simple.
 
 1. Fork theme into your Github repository (https://github.com/hugo-apero/hugo-apero-docs for this theme)
 
@@ -31,7 +33,7 @@ This theme has tremendous support and documentation directly: https://hugo-apero
 
 *Introduce Yourself Online*
 
-Additionally, this product of a workshop from RStudio on the tools I've used and that many people need and use when creating a presence for themselves online: https://iyo-rstudio-global.netlify.app/
+This guide from a workshop by RStudio gives a ton of tools I've used in creating this site: https://iyo-rstudio-global.netlify.app/
 
 *Dr. Allison Hill*
 
@@ -44,6 +46,11 @@ Dr. Hill is also a co-developer of many data gems, including distill (https://rs
 This was helpful for a quick reference on the netlify-blogdown workflow, and his blog has a lot of other gems as well:
 
 https://www.garrickadenbuie.com/blog/blogdown-netlify-new-post-workflow/#netlify-toml
+
+*Markdown Tutorial*
+
+https://commonmark.org/help/tutorial/
+
 
 
 
