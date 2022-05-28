@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A place to share ideas and experiences."
   favicon = "/img/favicon.png"
   logo = "/img/11.png"
-  mainSections = ["About", "Blog", "Projects", "DACSS", "Resources", "Collections"]
+  mainSections = ["About", "Blog", "Projects", "Resources"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/bird.jpg"
+  sharing_image = "/img/home.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "@kitka2001"
   
@@ -137,15 +137,10 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "DACSS"
-    title = "DACSS"
-    url = "/collection/"
-    weight = 4
-  [[menu.header]]
     name = "Resources"
     title = "Resources"
     url = "/projects/"
-    weight = 5
+    weight = 4
     
   # Configure footer  
   [[menu.footer]]

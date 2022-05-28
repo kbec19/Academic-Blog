@@ -11,6 +11,9 @@ intro: |
   My courses have developed and continue to grow my skills in qualitative and quantitative data analysis, survey methodology, research design, data visualization, political science, and social psychology. I also continue to grow my proficiency in the programming languages R and Python. My primary academic research interests include the prevention, onset, management, and resolution of conflict, combat veteran experiences and narratives and their role in society, the intersecting study of veterans and environmental justice. 
   
   I am currently engaging in diverse internships while I explore the right fit where my long-built and new-found knowledge bases serve a mutual need. I’m looking to connect with others pivoting to new phases in their educational and professional lives as well as those interested in engaging in building the support and knowledge resources of military veterans and their families, peace-building advocates, and anyone generally trying to find new ways to move the world forward.
+  
+  You can see my resume [here](pdfs/Kristina-Becvar-Resume.pdf) or check our my profile on [LinkedIn](https://www.linkedin.com/in/kbecvar/).
+  
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Steve Linberg](https://slinberg.net/) for inspiring me to undertake creating a blog!
