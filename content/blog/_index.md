@@ -16,10 +16,10 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: Kristina Becvar
-  description: "This is primarily my blog of course projects, assignments, homework, and progress reports on active research."
+  author: 
+  description: "This is primarily my blog of course projects, assignments, homework, and progress reports on course research. As I begin my own independent research, I hope to allow the content to evolve."
   show_sidebar_adunit: true
-  title: Sidebar
+  title: What's Here?
 thumbnail_left: true
 title: Blog Posts
 ---

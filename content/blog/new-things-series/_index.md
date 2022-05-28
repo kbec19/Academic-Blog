@@ -26,7 +26,6 @@ sidebar:
   author: Kristina Becvar
   description: |
     Migrating my site to this new Hugo template.
-
     Using Netlify, Hugo, and RStudio to run an academic blog.
   show_sidebar_adunit: false
   text_link_label: ""
