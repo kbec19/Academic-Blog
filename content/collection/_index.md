@@ -17,8 +17,8 @@ sidebar:
   description: "Various databases, free training tools, and links and training on research tools"
   show_sidebar_adunit: true
   title: Data & Resources for Social Science Data People
-  text_link_label: View recent posts
-  text_link_url: /collection/
+  text_link_label: View DACSS Program Advice and Resources
+  text_link_url: /blog/dacss-program/
 thumbnail_left: true
 title: Data & Resources
 ---

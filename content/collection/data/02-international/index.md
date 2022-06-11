@@ -1,122 +1,129 @@
 ---
 date: "2022-05-01"
-excerpt: In this block, we'll use the postcards package to make a single 'about' home
-  page with only R Markdown.
-subtitle: Write and send a single postcard.
-title: A postcard
+excerpt:
+subtitle: Wide Range of International Datasets
+title: International Data
 weight: 2
 ---
 
-## Pre-requisites
+## International Demographic, Economic, and Policy Datasets
 
-First, make sure you have the latest version of the postcards package installed from CRAN:
+[AfroBarometer](https://www.afrobarometer.org/)
 
-```
-install.packages("postcards")
-```
+[ArabBarometer](https://www.arabbarometer.org/about/)
 
-Restart your R session. If you use RStudio, use the menu item *Session > Restart R* or the associated keyboard shortcut:
+[AsianBarometer]( http://www.asianbarometer.org/)
 
-+ <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
-+ <kbd>Command + Shift + F10<kbd> (Mac OS). 
+[Briq Institute on Behavior & Inequality Global Preferences Survey]( https://www.briq-institute.org/global-preferences/downloads?utm_source=link_wwwv9&utm_campaign=item_319673&utm_medium=copy)
 
-```
-packageVersion("postcards")
-[1] ‘0.2.3’
-```
+[British Household Panel Survey](https://www.iser.essex.ac.uk/bhps)
 
-## Create GitHub repo
+[Canadian Opinion Research Archive]( https://www.queensu.ca/cora/)
 
-Online.
+[Caucasus Barometer]( https://www.caucasusbarometer.org/en/)
 
-## Clone GitHub repo
+[Central Asia Barometer]( https://ca-barometer.org/en/cab-database)
 
-```
-usethis::create_from_github("https://github.com/apreshill/global-postcard.git")
-```
+[Centre for Humanitarian Data](https://centre.humdata.org/)
 
-:sparkles: Commit & Push! :sparkles:
+[CAP: Comparative Agendas Project]( https://www.comparativeagendas.net/datasets_codebooks)
 
-You should be committing these files:
+[data.europa.eu*](https://data.europa.eu/en)
++ *The portal provides access to open data from international, EU, national, regional, local and geo data portals. It replaces the EU Open Data Portal and the European Data Portal. *
 
-+ `*.Rproj`
+[EQLS: European Quality of Life Surveys](https://www.eurofound.europa.eu/surveys/european-quality-of-life-surveys)
 
-+ `.gitignore`
+[ESS: European Social Survey](http://www.europeansocialsurvey.org/about/index.html)
 
-## Create a postcard {#templates}
++ [ESS CRONOS Panel](http://www.europeansocialsurvey.org/methodology/methodological_research/modes_of_data_collection/cronos.html)
 
-Inside your current postcards project, use the R console:
+[EurasiaBarometer]( http://office.eurasiabarometer.org/)
 
-```
-library(postcards)
-```
+[Eurasian Monitor](https://eurasiamonitor.org/)
 
-Then you could run (wait- don't do this yet!):
+[Eurobarometer](https://europa.eu/eurobarometer/screen/home)
 
-```
-create_postcard()
-```
+[Eurofound Data Explorer](https://www.eurofound.europa.eu/data)
 
-But you could also pick one of four templates:
+[Eurostat: EU Statistical Data](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en)
 
-1. `"jolla"` (<https://seankross.com/postcards-templates/jolla/>) [the default]
+[EVS: European Values Survey](https://europeanvaluesstudy.eu/about-evs/)
 
-1. `"jolla-blue"` (<https://seankross.com/postcards-templates/jolla-blue/>)
+[EWCS: European Working Conditions Surveys](https://www.eurofound.europa.eu/surveys/european-working-conditions-surveys-ewcs)
 
-1. `"trestles"` (<https://seankross.com/postcards-templates/trestles/>)
+[Findex: World Bank Global Financial Index]( https://globalfindex.worldbank.org/#data_sec_focus)
 
-1. `"onofre"` (<https://seankross.com/postcards-templates/onofre/>)
+[HDX: Humanitarian Data Exchange](https://data.humdata.org/)
 
-```
-create_postcard(template = "jolla") #default
-create_postcard(template = "jolla-blue")
-create_postcard(template = "trestles")
-create_postcard(template = "onofre")
-```
+[Huridocs Human Rights Research Databases]( https://huridocs.org/resource-library/human-rights-research-databases/)
 
-<aside>
-Want to know more? Under the hood, these are R Markdown templates, which you can include in a package.
-</aside>
+[IATI: International Aid Transparency Initiative](https://iatistandard.org/en/)
 
-## Anatomy of a postcard
+[ISD: Indices of Social Development from ISS]( https://isd.iss.nl/)
 
-YAML, body, name is index- this is special
+[ISSP: International Social Survey Programme]( https://issp.org/)
 
-:sparkles: Commit & Push! :sparkles:
+[IPUMS International: Integrated Public Use Microdata Series](https://international.ipums.org/international/)
 
-You should be committing these files:
+[Latin American Data Bank (Roper)]( https://ropercenter.cornell.edu/latin-american-data-bank)
 
-+ `index.Rmd`
+[LatinoBarometer]( https://www.latinobarometro.org/lat.jsp)
 
-+ `*.jpg`
+[Life in Transition Project](https://litsonline-ebrd.com/)
 
-But! There is no `.html` file (yet...)
+[NationMaster]( https://www.nationmaster.com/)
 
+[New Zealand Databases]( https://www.library.auckland.ac.nz/guides/statistics-and-numeric-data)
 
-## Knit the postcard
+[OECD: Organisation for Economic Co-operation and Development]( https://data.oecd.org/)
 
-Knit button or
+[PCPSR: Palestinian Center for Policy and Survey Research]( http://www.pcpsr.org/)
 
-```
-rmarkdown::render("index.Rmd")
-```
+[Polish Panel Survey](https://polpan.org/en/)
 
-What is new in your Git pane?
+[Prindex: Global Property Rights Index]( https://www.prindex.net/data/?utm_source=link_wwwv9&utm_campaign=item_319673&utm_medium=copy)
 
-:sparkles: Commit & Push! :sparkles:
+[Russian Longitudinal Monitoring Survey](https://www.hse.ru/en/rlms/)
 
-You should be committing this files:
+[Transatlantic Trends Survey]( https://www.gmfus.org/transatlantic-trends)
 
-+ `index.html`
+[UK Data Service]( https://discover.ukdataservice.ac.uk/variables)
 
-(You may get a warning in RStudio IDE that this file is too big- go right ahead)
+[UN Food and Agriculture Microdata]( https://microdata.fao.org/index.php/catalog?utm_source=link_wwwv9&utm_campaign=item_319673&utm_medium=copy)
 
-## Publish a postcard
+[UN Statistics Division](https://unstats.un.org/home/)
++ [UN Demographic Yearbook System]( https://unstats.un.org/unsd/demographic-social/products/dyb/#censusdatasets)
 
-+ Push, publish to GitHub pages
-https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site
+[UNDP Human Development Report Data](https://hdr.undp.org/en/data)
 
-## Share your postcard!
+[UN OCHA: Office for the Coordination of Humanitarian Affairs Data Exchange]( https://data.humdata.org/)
 
-Add it to your repository details
-  
+[UN ODC: Office on Drugs and Crime]( https://dataunodc.un.org/?lf=1&lng=en)
+
+[UN Refugee Data Finder](https://www.unhcr.org/refugee-statistics-uat/)
+
+[UNESCO Institute for Statistics]( http://uis.unesco.org/en/home)
+
+[World Bank Open Data](https://data.worldbank.org/)
++ [World Bank Data Catalog](https://datacatalog.worldbank.org/home)
++ [World Bank CCKP: Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/)
+
+[World Health Organization Data]( https://www.who.int/data)
+
+[World Inequality Database](https://wid.world/)
+
+[World Public Opinion]( https://worldpublicopinion.net/)
+
+[WVS: World Values Study]( https://www.worldvaluessurvey.org/wvs.jsp)
+
+---
+
+## Conflict and Violence Data
+
+[ICB: International Crisis Behavior Project](https://sites.duke.edu/icbdata/data-collections/)
+
+[INSCR: Integrated Network for Societal Conflict Research]( https://www.systemicpeace.org/inscrdata.html)
+
+[Small Arms Survey]( https://www.smallarmssurvey.org/what-we_do/data-and-analytics)
+
+---

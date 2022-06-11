@@ -1,139 +1,171 @@
 ---
 date: "2022-05-01"
 draft: false
-excerpt: Most of this info is from RStudio & Dr. Allison Hill
-subtitle: Using the distill & postcards packages to build a personal website with
-  R Markdown.
-title: A distill site
+excerpt: 
+subtitle: Wide Variety of Datasets
+title: Misc. Data
 weight: 3
 ---
 
-## Pre-requisites
+---
 
-First, make sure you have the latest version of the distill package installed from CRAN:
+## Data Portals and Repositories
 
-    install.packages("distill")
+[FiveThirtyEight (Nate Silver)]( https://fivethirtyeight.com/)
 
-Restart your R session. If you use RStudio, use the menu item *Session \> Restart R* or the associated keyboard shortcut:
+[Google Dataset Search](https://datasetsearch.research.google.com/)
 
--   <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
--   <kbd>Command + Shift + F10<kbd> (Mac OS).
+[Harvard Dataverse]( https://dataverse.harvard.edu/)
 
-```{=html}
-<!-- -->
-```
-    packageVersion("distill")
-    [1] ‘1.3’
+[ICPSR: Inter-University Consortium for Political and Social Research]( https://www.icpsr.umich.edu/web/pages/)
 
-## Create GitHub repo
+[Information is Beautiful](https://informationisbeautiful.net/data/)
 
-Online.
+[IPUMS: Integrated Public Use Microdata Series - All Sites](https://www.ipums.org/)
 
-## Clone GitHub repo
+[Kaggle Datasets](https://www.kaggle.com/datasets)
 
-    usethis::create_from_github("https://github.com/yourname/global-distill.git")
+[Natural Language Processing Datasets](https://github.com/niderhoff/nlp-datasets)
 
-:sparkles: Commit & Push! :sparkles:
+[OpenDOAR (Directory of Open Access Repositories]( https://v2.sherpa.ac.uk/opendoar/)
 
-You should be committing these files:
+[Our World in Data]( https://ourworldindata.org/)
 
--   `*.Rproj`
+[Pew Research Center Download Datasets](https://www.pewresearch.org/download-datasets/)
 
--   `.gitignore`
+[Pew Research Center Online Datasets](https://www.pewresearch.org/internet/datasets/)
 
-## Create a new distill site
+[Qualitative Data Repository]( https://qdr.syr.edu/)
 
-Inside your current distill project, use the R console:
+[Registry of Research Data Repositories(re3data.org)](https://www.re3data.org/)
 
-    library(distill)
+[The Dataverse Project](https://dataverse.org/)
 
-Let's start with a simple website:
+[UC Irvine Data Repository](https://archive-beta.ics.uci.edu/)
 
-    create_website(dir = ".", title = "global-distill", gh_pages = TRUE)
-
-Now, let's commit all these new files and push to GitHub.
-
-## Build site
-
-Please *close* RStudio and re-open it. Look in your Git pane, you should see a single file has changed:
-
-<center>
-
-<img src="rproj-git.png" width="500"/>
-
-</center>
-
-Let's look at the diff:
-
-<center>
-
-<img src="rproj-diff.png" width="500"/>
-
-</center>
-
-Let's go ahead and commit this file before we start adding to our site.
-
-You should see:
-
-![RStudio build site tab](https://rstudio-education.github.io/sharing-short-notice/images/screenshots/build-site.png)
-
-## Add a postcard
-
-Docs: <https://rstudio.github.io/distill/website.html#postcards>
-
-Now, delete your `about.Rmd` (trust me!). We'll create a new one with the postcards package.
-
-```
-create_article(file = "about",         # future name of .Rmd file
-               template = "jolla",    # name of template
-               package = "postcards")
-```
-
-[Reminder: templates]({{< ref "/02-postcards#templates" >}} "Postcards templates")
+---
 
 
-## Site navigation
+## Crime & Justice Sources
 
-`_site.yml`
+[NACJS: National Archive of Criminal Justice Data]( https://www.icpsr.umich.edu/web/pages/NACJD/index.html)
 
-## Theme
+[National Gang Center Survey Analysis]( https://nationalgangcenter.ojp.gov/survey-analysis)
 
-Docs: <https://rstudio.github.io/distill/website.html#theming>
+[NIC: National Institute of Corrections State Statistics]( https://nicic.gov/projects/state-statistics-information)
 
-    distill::create_theme("me")
+[NORC Criminal Justice & Violence Data]( https://www.norc.org/Research/Topics/Pages/society,-media,-and-public-affairs/criminal-justice-and-violence.aspx)
 
-Remember your `_site.yml` file? Add the theme line there:
+---
 
-``` {.yaml}
-name: "Me"
-title: "Personal website of Me"
-description: |
-  This is my personal website.
-output_dir: "docs"
-theme: me.css
-navbar:
-  right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-output: distill::distill_article
-```
 
-## Publish a distill site
+## Electoral Data (U.S. and International)
 
-Easy:
+[ANES: American National Election Studies]( https://electionstudies.org/)
 
--   Push, publish to GitHub pages <https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site>
+[CCS: Comparative Candidates Survey]( http://www.comparativecandidates.org/)
 
-Medium:
+[CLEA: Constituency Level Election Archives*](https://electiondataarchive.org/)
++ *This is archived and now known as the Global Elections Database*
 
-```
-> use_github_pages(branch = "main", path = "/docs")
-✓ Setting active project to '/Users/me/rscratch/global-distill'
-✓ Activating GitHub Pages for 'yourname/global-distill'
-✓ GitHub Pages is publishing from:
-● URL: 'https://yourname.github.io/global-distill/'
-● Branch: 'main'
-● Path: '/docs'
-```
+[CNEP: Comparative National Elections Project]( https://u.osu.edu/cnep/)
+
+[CSES: Comparative Study of Electoral Systems]( https://cses.org/)
+
+[Electoral Integrity Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EWYTZ7)
+
+[Election Passport]( http://www.electionpassport.com/)
+
+[European Election Studies]( http://www.ees-homepage.net/)
+
+[Global Elections Database]( http://www.globalelectionsdatabase.com/)
+
+[MIT Election Data & Science Lab]( https://electionlab.mit.edu/data)
+
+---
+
+## People With Interesting Data
+
+[Erin Davis](https://erdavis.com/datasets/)
+
+[Andrew Leigh](http://andrewleigh.org/)
+
+---
+
+## Intersectional Data
+
+[Harvard Caselaw Access Project]( https://case.law/)
+
+[KFF: Kaiser Family Foundation State Health Facts and Health Policy Polling Data]( https://www.kff.org/)
+
+---
+
+
+## Speech and Language Resources
+
+[FOCUSdata Project](https://focusdataproject.com/)
+
+[Open SLR](https://openslr.org/resources.php)
+
+---
+
+
+## Restricted Data
+
+[Application to use restricted data from the U.S. Federal Statistical System]( https://www.researchdatagov.org/)
+
+---
+
+## Unique Data
+
+[GDELT Project]( https://www.gdeltproject.org/data.html)
+
+[Mapping Inequality: Redlining in New Deal America]( https://dsl.richmond.edu/panorama/redlining/)
+
+[Renewing Inequality Interactive Data Site: Urban Renewal, Family Displacements, and Race 1950-1966] (https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram)
+
+[Gallup’s UN-Endorsed ‘Degree of Urbanisation’ Variable]( https://www.gallup.com/analytics/315497/urbanization-data-variable.aspx)
+
+---
+
+
+## Data about Governance
+
+[GoQ: Qality of Government institute]( https://www.gu.se/en/quality-government/qog-data)
+
+[MIA: Measure of International Authority]( https://garymarks.web.unc.edu/data/international-authority/)
+
+---
+
+
+## Nonprofit Data
+
+[IATI: International Aid Transparency Initiative]( https://iatistandard.org/en/)
+
+[NCCS: National Center for Charitable Statistics]( https://nccs.urban.org/)
+
+---
+
+
+## Meta
+
+[Annotation for Transparent Inquiry]( https://qdr.syr.edu/ati)
+
+[How to Cite Data (Michigan State University)](https://libguides.lib.msu.edu/c.php?g=96245&p=626236)
+
+[How to Prepare an Annotated Bibliography (Cornell)]( https://guides.library.cornell.edu/annotatedbibliography/home)
+
+[Scholarly communication Toolkit (Association of College & Resource Libraries)]( https://acrl.libguides.com/scholcomm/toolkit/publishing)
+
+---
+
+
+## Climate Change
+
+
+[KNB: Knowledge Network for Biocomplexity Data portals]( https://knb.ecoinformatics.org/portals)
+
+[Unidata Geoscience Research and Tools]( https://www.unidata.ucar.edu/data/)
+
+
+---
