@@ -6,7 +6,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /collection/
-description: "This is a page of ideas, experiences, and tools I have found useful in the course of my studies in the DACSS program at UMass Amherst and hope others can find useful as well."
+description: "This is a collection of resources, from data sources to learning tools to research tools."
 layout: list-sidebar
 show_author_byline: true
 show_button_links: true
@@ -14,9 +14,11 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: 
-  description: "A little advice on starting out down the DACSS path!"
+  description: "Various databases, free training tools, and links and training on research tools"
   show_sidebar_adunit: true
-  title: Advice and Experience With Studying Data Analytics for Social Sciences
+  title: Data & Resources for Social Science Data People
+  text_link_label: View recent posts
+  text_link_url: /collection/
 thumbnail_left: true
-title: DACSS Program
+title: Data & Resources
 ---

@@ -4,16 +4,22 @@ subtitle: "A collection of interesting, important, or fun data."
 excerpt: ""
 date: 2022-05-25
 author: "Kristina Becvar"
+sidebar:
+    show_sidebar_adunit: true
+    text_content_label: On This Page
+    text_link_label: View all resources
+    text_link_url: /projects/
 draft: false
 featured: true
 tags:
 categories:
 - Data
 - Projects
-layout: single
+layout: single-sidebar
+show_post_thumbnail: true  
+thumbnail_left: true 
 ---
 
-![](featured.png)
 
 ---
 

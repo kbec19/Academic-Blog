@@ -2,15 +2,15 @@
 author: 
 date: "2022-05-01"
 description: |
-  Additional Core Courses
+  DACSS Program Courses
 excerpt: null
 layout: single-series
 publishDate: "2022-05-01"
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: All About DACSS 602, 603, 604
-title: Additional Core Courses
+subtitle: All About DACSS 601, 602, 603, 604
+title: Insights and Advice
 weight: 3
 ---
 
