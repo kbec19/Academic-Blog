@@ -25,7 +25,7 @@ The initial work is an explainer, which can be found here: https://prezi.com/vie
 
 ---
 
-### Inspiration, Sources, and Citations
+### Bibliography and Relevant Resources
 
 Citations:
 
@@ -62,6 +62,8 @@ Citations:
 * Jardina, A., & Ollerenshaw, T. (2022). The Polls—Trends: The Polarization of White Racial Attitudes and Support for Racial Equality in the US. Public Opinion Quarterly, 86(S1), 576–587. https://doi.org/10.1093/poq/nfac021
 
 * Jost, J. T., Glaser, J., Kruglanski, A. W., & Sulloway, F. J. (2003). Political conservatism as motivated social cognition. Psychological Bulletin, 129, 339–375. https://doi.org/10.1037/0033-2909.129.3.339
+
+* Kam, C. D., & Burge, C. D. (2019). TRENDS: Racial Resentment and Public Opinion across the Racial Divide. Political Research Quarterly, 72(4), 767–784.
 
 * Kesler, C., & Churchwell, A. (2020). The Obama Effect on Perceived Mobility. Societies, 10(2). https://doi.org/10.3390/soc10020046
 
