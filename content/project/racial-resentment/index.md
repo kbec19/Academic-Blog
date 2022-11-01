@@ -31,6 +31,8 @@ Citations:
 
 * Abramowitz, A., & McCoy, J. (2019). United States: Racial Resentment, Negative Partisanship, and Polarization in Trump’s America. The ANNALS of the American Academy of Political and Social Science, 681(1), 137–156. https://doi.org/10.1177/0002716218811309
 
+* Bobo, L. (1983). Whites’ opposition to busing: Symbolic racism or realistic group conflict? Journal of Personality and Social Psychology, 45, 1196–1210. https://doi.org/10.1037/0022-3514.45.6.1196
+
 * Bobo, L. (1995). Behind the Mule: Race and Class in African-American Politics. Michael C. Dawson. American Journal of Sociology, 101(3), 754–756. https://doi.org/10.1086/230760
 
 * Carney, R. K., & Enos, R. D. (n.d.). Conservatism and Fairness in Contemporary Politics: Unpacking the Psychological Underpinnings of Modern Racism. 42.
@@ -42,6 +44,8 @@ Citations:
 * Deborah A. Prentice and Dale T. Miller, editors. (1999). Cultural divides: Understanding and overcoming group conflict. New York: Russell Sage Foundation, [1999] ©1999. https://search.library.wisc.edu/catalog/9913023729402121
 
 * DeSante, C. D., & Watts Smith, C. (2020). Less Is More: A Cross-Generational Analysis of the Nature and Role of Racial Attitudes in the Twenty-First Century. The Journal of Politics, 82(3), 967–980. https://doi.org/10.1086/707490
+
+* Enders, A., & Scott, J. (2018, January 15). White racial resentment has been gaining political power for decades. Washington Post. https://www.washingtonpost.com/news/monkey-cage/wp/2018/01/15/white-racial-resentment-has-been-gaining-political-power-for-decades/
 
 * Erikson, R. S., & Tedin, K. L. (2019). American Public Opinion: Its Origins, Content, and Impact (10th ed.). Routledge. https://doi.org/10.4324/9781351034746
 
@@ -103,21 +107,19 @@ Citations:
 
 * Tesler, M. (2016). Post-Racial or Most-Racial?: Race and Politics in the Obama Era. University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/P/bo22961444.html
 
+* Tesler, M. (2017, October 13). To many Americans, being patriotic means being white. Washington Post. https://www.washingtonpost.com/news/monkey-cage/wp/2017/10/13/is-white-resentment-about-the-nfl-protests-about-race-or-patriotism-or-both/
+
 * Tesler, M., & Sears, D. O. (2010). Obama’s Race: The 2008 Election and the Dream of a Post-Racial America. University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/O/bo10443910.html
 
 * The Role of Racial Resentment in Our Politics (n.d.). Brennan Center for Justice. Retrieved October 31, 2022, from https://www.brennancenter.org/our-work/analysis-opinion/role-racial-resentment-our-politics
 
 * Thomas, D., & Horowitz, J. M. (n.d.). Support for Black Lives Matter has decreased since June but remains strong among Black Americans. Pew Research Center. Retrieved October 31, 2022, from https://www.pewresearch.org/fact-tank/2020/09/16/support-for-black-lives-matter-has-decreased-since-june-but-remains-strong-among-black-americans/
 
-* To many Americans, being patriotic means being white. (n.d.). Washington Post. Retrieved October 31, 2022, from https://www.washingtonpost.com/news/monkey-cage/wp/2017/10/13/is-white-resentment-about-the-nfl-protests-about-race-or-patriotism-or-both/
-
 * Towler, C., & Parker, C. (2018). Between Anger and Engagement: Donald Trump and Black America. The Journal of Race, Ethnicity, and Politics, 3, 1–35. https://doi.org/10.1017/rep.2017.38
 
 * Virtanen, S. V., & Huddy, L. (1998). Old-Fashioned Racism and New Forms of Racial Prejudice. The Journal of Politics, 60(2), 311–332. https://doi.org/10.2307/2647911
 
 * Wetts, R., & Willer, R. (2019). Who Is Called by the Dog Whistle? Experimental Evidence That Racial Resentment and Political Ideology Condition Responses to Racially Encoded Messages. Socius, 5, 2378023119866268. https://doi.org/10.1177/2378023119866268
-
-* White racial resentment has been gaining political power for decades. (n.d.). Washington Post. Retrieved October 31, 2022, from https://www.washingtonpost.com/news/monkey-cage/wp/2018/01/15/white-racial-resentment-has-been-gaining-political-power-for-decades/
 
 * Zaller, J., & Feldman, S. (1992). A Simple Theory of the Survey Response: Answering Questions versus Revealing Preferences. American Journal of Political Science, 36(3), 579–616. JSTOR. https://doi.org/10.2307/2111583
 
