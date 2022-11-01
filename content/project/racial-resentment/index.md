@@ -89,6 +89,8 @@ Citations:
 
 * Sears, D. O., Laar, C. V., Carrillo, M., & Kosterman, R. (2004). Is It Really Racism? The Origins of White Americans’ Opposition to Race-Targeted Policies. In Political Psychology. Psychology Press.
 
+* Simmons, A. D., & Bobo, L. D. (2018). UNDERSTANDING “NO SPECIAL FAVORS”: A Quantitative and Qualitative Mapping of the Meaning of Responses to the Racial Resentment Scale. Du Bois Review: Social Science Research on Race, 15(2), 323–352. https://doi.org/10.1017/S1742058X18000310
+
 * Smith, C. W., Kreitzer, R. J., & Suo, F. (2020). The Dynamics of Racial Resentment across the 50 US States. Perspectives on Politics, 18(2), 527–538. Cambridge Core. https://doi.org/10.1017/S1537592719002688
 
 * Sniderman, P. M., & Tetlock, P. E. (1986). Symbolic Racism: Problems of Motive Attribution in Political Analysis. Journal of Social Issues, 42(2), 129–150. https://doi.org/10.1111/j.1540-4560.1986.tb00229.x
@@ -122,6 +124,5 @@ Citations:
 
 ---
 
-#### This project will continue in the coming months utilizing new tools as developed in continuing DACSS courses.
+#### This project may continue in the future.
 
-[^1]: The preliminary work on this project was done as part of the UMass Amherst DACSS Course "Social and Network Analysis"," taught by Professor Meredith Rolfe.
