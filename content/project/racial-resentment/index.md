@@ -31,6 +31,8 @@ Citations:
 
 * Abramowitz, A., & McCoy, J. (2019). United States: Racial Resentment, Negative Partisanship, and Polarization in Trump’s America. The ANNALS of the American Academy of Political and Social Science, 681(1), 137–156. https://doi.org/10.1177/0002716218811309
 
+* Blumer, H. (1958). Race Prejudice as a Sense of Group Position. Pacific Sociological Review, 1(1), 3–7. https://doi.org/10.2307/1388607
+
 * Bobo, L. (1983). Whites’ opposition to busing: Symbolic racism or realistic group conflict? Journal of Personality and Social Psychology, 45, 1196–1210. https://doi.org/10.1037/0022-3514.45.6.1196
 
 * Bobo, L. (1995). Behind the Mule: Race and Class in African-American Politics. Michael C. Dawson. American Journal of Sociology, 101(3), 754–756. https://doi.org/10.1086/230760
@@ -46,6 +48,8 @@ Citations:
 * DeSante, C. D., & Watts Smith, C. (2020). Less Is More: A Cross-Generational Analysis of the Nature and Role of Racial Attitudes in the Twenty-First Century. The Journal of Politics, 82(3), 967–980. https://doi.org/10.1086/707490
 
 * Enders, A., & Scott, J. (2018, January 15). White racial resentment has been gaining political power for decades. Washington Post. https://www.washingtonpost.com/news/monkey-cage/wp/2018/01/15/white-racial-resentment-has-been-gaining-political-power-for-decades/
+
+* Enders, A. M., & Thornton, J. R. (2022). Racial Resentment, Electoral Loss, and Satisfaction with Democracy Among Whites in the United States: 2004–2016. Political Behavior, 44(1), 389–410. https://doi.org/10.1007/s11109-021-09708-8
 
 * Erikson, R. S., & Tedin, K. L. (2019). American Public Opinion: Its Origins, Content, and Impact (10th ed.). Routledge. https://doi.org/10.4324/9781351034746
 
