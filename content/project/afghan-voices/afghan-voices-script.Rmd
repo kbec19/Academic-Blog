@@ -1,0 +1,29 @@
+---
+title: "Full Analysis"
+author: "Kristina Becvar"
+date: '2022-11-21'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Summary
+
+
+
+```{r}
+library(dplyr)
+library(magrittr)
+```
+
+Load database of all Afghan Voices data and create sub-tables for analysis
+
+```{r echo=true}
+all_data<-read.csv("AfghanistanData_Final_Translated.csv") 
+
+demographics<-select()
+
+```
+
