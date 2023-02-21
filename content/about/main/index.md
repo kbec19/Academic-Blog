@@ -14,7 +14,7 @@ intro: |
   
   I’m looking to connect with others pivoting to new phases in their educational and professional lives as well as those interested in engaging in building the support and knowledge resources of military veterans and their families, peace-building advocates, and anyone generally trying to find new ways to move the world forward.
   
-  You can see my resume [here](/pdfs/Kristina-Becvar-Resume.pdf){target="_blank"} or check our my profile on [LinkedIn](https://www.linkedin.com/in/kbecvar/).
+  You can see my resume [here](/pdfs/Kristina-Becvar-Resume.pdf) or check our my profile on [LinkedIn](https://www.linkedin.com/in/kbecvar/).
   
 show_outro: true
 outro: |
