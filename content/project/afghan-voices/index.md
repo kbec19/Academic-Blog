@@ -26,18 +26,8 @@ Additionally, the first of several publications generated from this data has bee
 
 ### Afghanistan Survey Data Explorer
 
-<div class="flourish-embed" data-src="story/1884858?889403"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+You can explore the data at the [Human Security Lab website.](https://www.humansecuritylab.net/afghanvoicesdata)
 
-
-### Afghanistan Survey Responses on Women's Human Rights
-
-<div class="flourish-embed" data-src="story/1939206?889403"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
----
-
-### Bibliography and Relevant Resources
-
-Becvar, Kristina; Carpenter, Charli; Leidner, Bernhard; Young, Kevin L., 2023, "Data for The “First Daughter” Effect, Human Rights Advocacy and Attitudes Toward Gender Equality in Taliban-Controlled Afghanistan", https://doi.org/10.7910/DVN/2DY3SR, Harvard Dataverse, V2
 
 ---
 
